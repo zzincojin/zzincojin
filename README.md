@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=zzincojin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=zzin%20개발자가%20되고%20싶은%20jin%20개발자%20Repo&descAlignY=58&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1C768F&height=300&section=header&text=zzincojin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=zzin%20개발자가%20되고%20싶은%20jin%20개발자%20Repo&descAlignY=58&descAlign=62"/>
 </p>
 
 <!--내용 부분-->
